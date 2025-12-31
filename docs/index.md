@@ -17,7 +17,7 @@ OK, 确认你有了这些内容之后， 请不要着急去到学生认证网站
 <img width="598" height="532" alt="image" src="https://github.com/user-attachments/assets/495ddb83-7627-4d60-bf39-eeafc9278ef7" />
 2. 修改地区为美国， 可以是具体的城市比如: Dover
 3. 绑定手机号
-4. 重要: 检查账号地区， 最好是美国，很多城市会被禁止，比如 Hongkong。 如何查看看下图
+4. 重要: 检查账号地区， 最好是美国，很多城市会被禁止，比如 Hongkong。 如何查看看下图, 更换访问链接 https://policies.google.com/country-association-form?hl=en-TW&fg=1
 
 <img width="568" height="1215" alt="image" src="https://github.com/user-attachments/assets/3384601c-6ec1-42e5-9484-0fdf40615cc5" />
 
