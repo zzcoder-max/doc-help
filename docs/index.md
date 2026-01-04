@@ -28,11 +28,11 @@ OK, 确认你有了这些内容之后， 请不要着急去到学生认证网站
 
 上面的如果都有了，并且你的账号没有经过多次验证，那你的成功率已经相对高了很多了， 接下类我们继续: 
 
-1. 打开 google 的资格页面: https://one.google.com/ai-student, 【之后先不要操作 ！！！】 如果你看到下图，那么你的 ip，账号大概率是没问题的
+1. 打开 google 的资格页面: https://gemini.google/students/ 或 https://one.google.com/ai-student 或 https://one.google.com/ai-student?g1_landing_page=75&utm_source=antigravity&utm_campaign=argon_limit_reached ）, 【之后先不要操作 ！！！】 如果你看到下图，那么你的 ip，账号大概率是没问题的
 
 <img width="692" height="692" alt="image" src="https://github.com/user-attachments/assets/157fdfb3-ebe8-45ec-bfa2-1e88296292e8" />
 
-2. 你没有操作，很好， 接着用右键点击按钮 (如果是 mac, 二指)， 点击复制链接
+2. 你没有操作，很好（点击打开会提高失败概率）， 接着用右键点击按钮 (如果是 mac, 二指)， 点击复制链接
 
 <img width="740" height="753" alt="image" src="https://github.com/user-attachments/assets/f189da23-4a74-4f6c-aade-d7b9c8956560" />
 
